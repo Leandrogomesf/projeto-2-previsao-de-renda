@@ -8,6 +8,6 @@ https://github.com/Leandrogomesf/projeto-previsao-de-renda/assets/131781462/79e5
 
 
 
-Link da página oficial com os dados
+Link da página oficial com os dados: https://projeto-previsao-de-renda-leandro.streamlit.app/
 
 
